@@ -1,4 +1,20 @@
 html, body {
   margin: 0;
+Perfect — you did the **hard part**. Now we just finish the **last required files** so Vercel can build.
+
+You are **still on track** 👍
+
+---
+
+## ✅ STEP 2 (FINISH IT): Create `app/globals.css`
+
+You already started this — it just needs **one more line**.
+
+### In the editor where you typed:
+```css
+html, body {
+  margin: 0;
+html, body {
+  margin: 0;
   padding: 0;
 }
